@@ -1,0 +1,11 @@
+set_io clock 35
+
+set_io led1 39  #blue
+set_io led2 6   #green
+set_io led3 3   #yellow
+set_io led4 48  #red
+set_io led5 47  #PMOD 1 P1_9
+
+#set_io LED_G 41  #RGB LED Green
+#set_io LED_R 40  #RGB LED Red
+#set_io LED_B 39  #RGB LED Blue
